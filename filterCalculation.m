@@ -3,7 +3,7 @@
 
 Tss = 2.5*10^-6; %sample
 
-P = 150e3; %rated active power?
+P = 80e3; %rated active power?
 U=480; %inverter phase to phase voltage
 f = 60; % grid freq
 fsw = 5e3; %switching frequency
