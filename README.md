@@ -1,2 +1,2 @@
 # EE 435 PV Inverter
- Final project for Power Electronics senior elective course
+ Case study of 3ph PV inverter operating in island mode
